@@ -34,12 +34,23 @@ node* list::operator[](int index) {
     return nullptr;
 }
 
-//list::~list() {
-//    node* current = this->head;
-//
-//    while (current != nullptr) {
-//        node* next = current->getNext();
-//        delete current;
-//        current = next;
-//    }
-//}
+void list::print() {
+    node* current = this->head;
+
+    while (current != nullptr) {
+        std::cout << current->getData() << " ";
+        current = current->getNext();
+    }
+
+    std::cout << "\n";
+}
+
+list::~list() {
+    node* current = this->head;
+
+    while (current != nullptr) {
+        node* next = current->getNext();
+        delete current;
+        current = next;
+    }
+}

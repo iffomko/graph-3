@@ -16,7 +16,8 @@ public:
     list() {};
     void push(int index);
     node* operator[](int index);
-//    ~list();
+    void print();
+    ~list();
 };
 
 
