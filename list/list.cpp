@@ -41,8 +41,6 @@ void list::print() {
         std::cout << current->getData() << " ";
         current = current->getNext();
     }
-
-    std::cout << "\n";
 }
 
 list::~list() {

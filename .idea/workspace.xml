@@ -15,18 +15,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc73fb6-2365-4026-9ae9-ffabf08a5042" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/list/list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/list.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/node.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/graph-3.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d4db3954c1288b8d2f89.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f483149f2ff4d477f466.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-10T06-15-15-0409.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph_3-Debug-487a9decaa03a76c9ab2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1c75a54d4d16cba159df.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-10T10-07-34-0328.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph_3-Debug-dbf784123e34098cc2cc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/list/list.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652163309762</updated>
       <workItem from="1652163311984" duration="5000" />
-      <workItem from="1652166052636" duration="3823000" />
+      <workItem from="1652166052636" duration="5329000" />
     </task>
     <servers />
   </component>
