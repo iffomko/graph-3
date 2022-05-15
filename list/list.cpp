@@ -43,6 +43,18 @@ void list::print() {
     }
 }
 
+int list::length() {
+    node* current = this->head;
+    int length = 0;
+
+    while (current != nullptr) {
+        length++;
+        current = current->getNext();
+    }
+
+    return length;
+}
+
 list::~list() {
     node* current = this->head;
 

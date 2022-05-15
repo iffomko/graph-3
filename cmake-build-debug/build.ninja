@@ -73,6 +73,18 @@ build CMakeFiles/graph_3.dir/readGraph/readGraph.cpp.obj: CXX_COMPILER__graph_3_
   OBJECT_DIR = CMakeFiles\graph_3.dir
   OBJECT_FILE_DIR = CMakeFiles\graph_3.dir\readGraph
 
+build CMakeFiles/graph_3.dir/stack/stack.cpp.obj: CXX_COMPILER__graph_3_Debug C$:/Users/Iluha/Documents/github_repos/graph-3/stack/stack.cpp || cmake_object_order_depends_target_graph_3
+  DEP_FILE = CMakeFiles\graph_3.dir\stack\stack.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\graph_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\graph_3.dir\stack
+
+build CMakeFiles/graph_3.dir/dfs/dfs.cpp.obj: CXX_COMPILER__graph_3_Debug C$:/Users/Iluha/Documents/github_repos/graph-3/dfs/dfs.cpp || cmake_object_order_depends_target_graph_3
+  DEP_FILE = CMakeFiles\graph_3.dir\dfs\dfs.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\graph_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\graph_3.dir\dfs
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target graph_3
@@ -81,7 +93,7 @@ build CMakeFiles/graph_3.dir/readGraph/readGraph.cpp.obj: CXX_COMPILER__graph_3_
 #############################################
 # Link the executable graph_3.exe
 
-build graph_3.exe: CXX_EXECUTABLE_LINKER__graph_3_Debug CMakeFiles/graph_3.dir/main.cpp.obj CMakeFiles/graph_3.dir/list/list.cpp.obj CMakeFiles/graph_3.dir/list/node.cpp.obj CMakeFiles/graph_3.dir/readGraph/readGraph.cpp.obj
+build graph_3.exe: CXX_EXECUTABLE_LINKER__graph_3_Debug CMakeFiles/graph_3.dir/main.cpp.obj CMakeFiles/graph_3.dir/list/list.cpp.obj CMakeFiles/graph_3.dir/list/node.cpp.obj CMakeFiles/graph_3.dir/readGraph/readGraph.cpp.obj CMakeFiles/graph_3.dir/stack/stack.cpp.obj CMakeFiles/graph_3.dir/dfs/dfs.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\graph_3.dir

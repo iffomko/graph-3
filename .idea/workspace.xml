@@ -15,16 +15,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc73fb6-2365-4026-9ae9-ffabf08a5042" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dfs/dfs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/dfs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1c75a54d4d16cba159df.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-10T10-07-34-0328.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph_3-Debug-dbf784123e34098cc2cc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a27d15eb0ec570c2739e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-10T10-56-01-0305.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph_3-Debug-0a1209f3aa217c45e5ab.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/list/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/list/list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/list/list.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +74,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -94,7 +101,12 @@
       <option name="presentableId" value="Default" />
       <updated>1652163309762</updated>
       <workItem from="1652163311984" duration="5000" />
-      <workItem from="1652166052636" duration="5329000" />
+      <workItem from="1652166052636" duration="8750000" />
+      <workItem from="1652192323669" duration="676000" />
+      <workItem from="1652269183612" duration="2903000" />
+      <workItem from="1652292811997" duration="651000" />
+      <workItem from="1652348695760" duration="568000" />
+      <workItem from="1652619932425" duration="7851000" />
     </task>
     <servers />
   </component>

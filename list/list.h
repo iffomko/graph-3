@@ -17,6 +17,7 @@ public:
     void push(int index);
     node* operator[](int index);
     void print();
+    int length();
     ~list();
 };
 
