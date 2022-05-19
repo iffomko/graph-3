@@ -5,3 +5,6 @@
 513	864	6743308530540168	graph_3.exe	2e0aca9c402a8758
 29	432	6739756610366361	CMakeFiles/graph_3.dir/readGraph/readGraph.cpp.obj	d65b9141182b5823
 39	499	6743308527019387	CMakeFiles/graph_3.dir/stack/stack.cpp.obj	4f57367818a23a2c
+65	708	6746598415805957	CMakeFiles/graph_3.dir/stack/stack.cpp.obj	4f57367818a23a2c
+48	725	6746598416046006	CMakeFiles/graph_3.dir/dfs/dfs.cpp.obj	47d2d67946e6ecb2
+7	730	6746598416106022	CMakeFiles/graph_3.dir/main.cpp.obj	f26bbf2bb7dec958

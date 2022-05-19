@@ -15,23 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc73fb6-2365-4026-9ae9-ffabf08a5042" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs/dfs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/dfs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/stack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a27d15eb0ec570c2739e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-10T10-56-01-0305.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph_3-Debug-0a1209f3aa217c45e5ab.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/list/list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/list/list.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +68,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="graph_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="graph_3" TARGET_NAME="graph_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="graph_3" RUN_TARGET_NAME="graph_3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -107,6 +89,8 @@
       <workItem from="1652292811997" duration="651000" />
       <workItem from="1652348695760" duration="568000" />
       <workItem from="1652619932425" duration="7851000" />
+      <workItem from="1652674585199" duration="269000" />
+      <workItem from="1652956421839" duration="979000" />
     </task>
     <servers />
   </component>
