@@ -4,19 +4,7 @@
 #include "readGraph/readGraph.h"
 #include "list/list.h"
 #include "stack/stack.h"
-
-void dfs(list* graph, bool* used, int top, stack &container) {
-    used[top] = true;
-
-    for (int i = 0; i < graph[top].length(); i++) {
-        if (!used[graph[top][i]->getData() - 1]) {
-            container.push(graph[top][i]->getData());
-            dfs(graph, used, graph[top][i]->getData() - 1, container);
-            container.print();
-            container.pop();
-        }
-    }
-}
+#include "dfs/dfs.h"
 
 int main() {
     std::ifstream fin("C:\\Users\\Iluha\\Documents\\github_repos\\graph-3\\input.txt");
